@@ -28,6 +28,7 @@ I build full-stack systems end-to-end — from designing microservice architectu
 ---
 
 ### ⚡ Tech Arsenal
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,c,js,react,nodejs,express,flask,fastapi,mongodb,postgres,docker,firebase,git,github,vscode" />
 </p>
@@ -37,26 +38,16 @@ I build full-stack systems end-to-end — from designing microservice architectu
 ---
 
 ## 🏆 Achievements
-🏁 Hackathon Finalist — Reached the offline final round of the Rkdemy hackathon with **UniFind**
+
+🥇 Hackathon Winner — **UniFind** won the Rkdemy hackathon after advancing through the offline final round
 🧩 Architected **8 independently deployed microservices** across 7 databases for E-ShopX
 📡 Built a real-time **Kafka + PostgreSQL** analytics pipeline processing live data streams
 🤖 Integrated a **70B-parameter Groq LLM** into a production AI medical assistant
 
 ---
 
-## 🚀 Featured Projects
-
-**[E-ShopX](https://github.com/Atharva6153-git/E-Commerce)** — Microservices e-commerce platform with 8 independently deployed services, saga-based transaction consistency, and HMAC-verified Razorpay payments.
-
-**[CryptoPulse](https://github.com/Atharva6153-git/Crypto-Pulse)** — Real-time Kafka + PostgreSQL pipeline streaming live crypto price ticks into moving average, OHLC, and volatility analytics.
-
-**[B-Bot Medguide](https://github.com/Atharva6153-git/B-Bot-Medguide)** — AI-powered medical companion with a Groq-powered chatbot, skin image analyzer, fever-risk scorer, and hospital finder.
-
-**[UniFind](https://github.com/Shreyas-patil07/UNIFIND)** — Hackathon project (4-member team): AI-powered campus marketplace with Gemini-based semantic matching. Reached the Rkdemy hackathon offline final round.
-
----
-
 ### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Atharva6153-git&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
