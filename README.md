@@ -44,7 +44,7 @@ I'm **Atharva Jadhav**, a Computer Engineering student passionate about building
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,nextjs,nodejs,express,mongodb,mysql,docker,git,github,tailwind,vscode"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,react,nextjs,nodejs,express,mongodb,mysql,git,github,tailwind"/>
 
 </p>
 
