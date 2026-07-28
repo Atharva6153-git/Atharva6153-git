@@ -53,9 +53,6 @@ I'm **Atharva Jadhav**, a Computer Engineering student passionate about building
 <div align="center">
 
 
-
-<br><br>
-
 <img width="70%" src="https://streak-stats.demolab.com?user=Atharva6153-git&theme=tokyonight&hide_border=true"/>
 
 </div>
