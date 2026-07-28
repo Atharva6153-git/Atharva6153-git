@@ -1,61 +1,92 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=3000&pause=100&color=1E3A5F&center=true&vCenter=true&random=true&width=500&height=55&lines=Full-Stack+Developer;Microservices+Architecture;AI+Integration;API+Development;Backend+Optimization" />
-
----
-
-### 👾 Yo, I'm Atharva  |  🏗️ Builder of Systems • Student by Day
-
-[![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-Connect-1E3A5F?style=for-the-badge)](https://linkedin.com/)
-[![GitHub](https://img.shields.io/badge/🐙%20GitHub-Explore-181717?style=for-the-badge)](https://github.com/Atharva6153-git)
-
-```text
-Name: Atharva Nitin Jadhav
-Level: Computer Engineering Student (2024 - 2028)
-Class: Full-Stack Developer
-Guild: Team Numero Uno
-Weapon: Node.js, React & Microservices
-Special Ability: Architecting distributed systems that actually ship
-```
-
-</div>
-
----
-
-## 🧠 About Me
-
-I build full-stack systems end-to-end — from designing microservice architectures with independent databases to shipping AI-integrated features with real APIs (Groq, Gemini). I like taking a project past the tutorial stage: proper auth, proper deployment, proper failure handling. Currently sharpening DSA and backend design while looking for a software engineering internship.
-
----
-
-### ⚡ Tech Arsenal
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,react,nodejs,express,flask,fastapi,mongodb,postgres,docker,firebase,git,github,vscode" />
-</p>
-
-`Microservices Architecture` • `Apache Kafka` • `REST APIs` • `JWT Auth` • `Groq AI API` • `Google Gemini API`
-
----
-
-## 🏆 Achievements
-
-🥇 Hackathon Winner — **UniFind** won the Rkdemy hackathon after advancing through the offline final round
-🧩 Architected **8 independently deployed microservices** across 7 databases for E-ShopX
-📡 Built a real-time **Kafka + PostgreSQL** analytics pipeline processing live data streams
-🤖 Integrated a **70B-parameter Groq LLM** into a production AI medical assistant
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Atharva6153-git&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
----
 
 <div align="center">
 
-### > Build. Deploy. Scale. Repeat._
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&height=180&color=gradient"/>
+
+</div>
+
+# Hi 👋 I'm Atharva Jadhav
+
+### Full Stack Developer • AI Enthusiast • Computer Engineering Student
+
+<p>
+
+<a href="https://portfolio-apexgg.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Live-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/atharva-jadhav-8a0830334">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:atharvaj7822@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=60A5FA&center=true&width=700&lines=Building+Scalable+Web+Applications;AI-Powered+Projects;Backend+Developer;Always+Learning"/>
+
+</div>
+
+## 👨‍💻 About Me
+
+I'm **Atharva Jadhav**, a Computer Engineering student passionate about building modern web applications and AI-powered software.
+
+- 🚀 Full Stack Developer
+- 🤖 Exploring Artificial Intelligence
+- ⚙️ Backend & System Design Enthusiast
+- 🌱 Currently mastering MERN & ML
+- 💡 Always building projects that solve real-world problems.
+
+## ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,nextjs,nodejs,express,mongodb,mysql,docker,git,github,tailwind,vscode"/>
+
+</p>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Atharva6153-git&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva6153-git&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Atharva6153-git&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+## 🎯 2026 Goals
+
+- 🚀 Build impactful Full Stack products
+- 🤖 Learn Production AI Systems
+- ☁️ Deploy scalable cloud applications
+- 🏆 Contribute to Open Source
+- 📚 Strengthen DSA & System Design
+
+
+## 🤝 Let's Connect
+
+If you're interested in collaborating on innovative projects, open source, or AI, feel free to reach out.
+
+🌐 Portfolio → https://portfolio-apexgg.vercel.app
+
+💼 LinkedIn → linkedin.com/in/atharva-jadhav-8a0830334
+
+📧 Email → atharvaj7822@gmail.com
+
+<div align="center">
+
+### Thanks for stopping by!
+
+⭐ If you like my work, consider starring a repository.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient"/>
 
 </div>
