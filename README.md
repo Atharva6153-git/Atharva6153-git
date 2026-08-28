@@ -1,29 +1,21 @@
 <div align="center">
 
-<div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&height=180&color=gradient"/>
-
-</div>
 
 # Hi 👋 I'm Atharva Jadhav
 
 ### Full Stack Developer • AI Enthusiast • Computer Engineering Student
 
 <p>
-
 <a href="https://portfolio-apexgg.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-Live-2563EB?style=for-the-badge"/>
 </a>
-
 <a href="https://www.linkedin.com/in/atharva-jadhav-8a0830334">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
-
 <a href="mailto:atharvaj7822@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=60A5FA&center=true&width=700&lines=Building+Scalable+Web+Applications;AI-Powered+Projects;Backend+Developer;Always+Learning"/>
@@ -43,18 +35,14 @@ I'm **Atharva Jadhav**, a Computer Engineering student passionate about building
 ## ⚡ Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=java,python,js,react,nextjs,nodejs,express,mongodb,mysql,git,github,tailwind"/>
-
 </p>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Atharva6153-git&theme=tokyonight&hide_border=true"/>
-
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Atharva6153-git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva6153-git&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 ## 🎯 2026 Goals
@@ -65,21 +53,17 @@ I'm **Atharva Jadhav**, a Computer Engineering student passionate about building
 - 🏆 Contribute to Open Source
 - 📚 Strengthen DSA & System Design
 
-
 ## 🤝 Let's Connect
 
 If you're interested in collaborating on innovative projects, open source, or AI, feel free to reach out.
 
 🌐 Portfolio → https://portfolio-apexgg.vercel.app
-
 💼 LinkedIn → linkedin.com/in/atharva-jadhav-8a0830334
-
 📧 Email → atharvaj7822@gmail.com
 
 <div align="center">
 
 ### Thanks for stopping by!
-
 ⭐ If you like my work, consider starring a repository.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient"/>
