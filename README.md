@@ -58,7 +58,7 @@ I'm **Atharva Jadhav**, a Computer Engineering student passionate about building
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Atharva6153-git&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://raw.githubusercontent.com/Atharva6153-git/Atharva6153-git/gh-pages/github-contribution-grid-snake-dark.svg?raw=true"/>
 
 </div>
 
