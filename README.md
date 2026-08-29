@@ -30,7 +30,7 @@ I'm **Atharva Jadhav**, a Computer Engineering student passionate about building
 - 🤖 Exploring Artificial Intelligence
 - ⚙️ Backend & System Design Enthusiast
 - 🌱 Currently mastering MERN & ML
-- 💡 Always building projects that solve real-world problems.
+- 💡 Building projects that solve real-world problems
 
 ## ⚡ Tech Stack
 
@@ -38,12 +38,30 @@ I'm **Atharva Jadhav**, a Computer Engineering student passionate about building
 <img src="https://skillicons.dev/icons?i=java,python,js,react,nextjs,nodejs,express,mongodb,mysql,git,github,tailwind"/>
 </p>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Dashboard
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Atharva6153-git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva6153-git&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Atharva6153-git&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Atharva6153-git&theme=tokyonight"/>
+
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Atharva6153-git&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Atharva6153-git&theme=tokyonight&utcOffset=5.5"/>
+
 </div>
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Atharva6153-git&theme=tokyonight&hide_border=true"/>
+
+</div>
+
 
 ## 🎯 2026 Goals
 
@@ -55,15 +73,16 @@ I'm **Atharva Jadhav**, a Computer Engineering student passionate about building
 
 ## 🤝 Let's Connect
 
-If you're interested in collaborating on innovative projects, open source, or AI, feel free to reach out.
+Interested in collaborating on innovative projects, open source, or AI? Reach out.
 
-🌐 Portfolio → https://portfolio-apexgg.vercel.app
-💼 LinkedIn → linkedin.com/in/atharva-jadhav-8a0830334
-📧 Email → atharvaj7822@gmail.com
+🌐 Portfolio → https://portfolio-apexgg.vercel.app  
+💼 LinkedIn → https://linkedin.com/in/atharva-jadhav-8a0830334  
+📧 Email → atharvaj7822@gmail.com  
 
 <div align="center">
 
 ### Thanks for stopping by!
+
 ⭐ If you like my work, consider starring a repository.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient"/>
