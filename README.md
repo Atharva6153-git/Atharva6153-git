@@ -54,20 +54,12 @@ I'm **Atharva Jadhav**, a Computer Engineering student passionate about building
 
 </div>
 
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img width="70%" src="https://raw.githubusercontent.com/Atharva6153-git/Atharva6153-git/gh-pages/github-contribution-grid-snake-dark.svg?raw=true"/>
-
-</div>
-
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Atharva6153-git/Atharva6153-git/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Atharva6153-git/Atharva6153-git/gh-pages/github-contribution-grid-snake-dark.svg?raw=true"/>
 
 </div>
 
