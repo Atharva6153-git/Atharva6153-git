@@ -38,24 +38,67 @@ I'm **Atharva Jadhav**, a Computer Engineering student passionate about building
 <img src="https://skillicons.dev/icons?i=java,python,js,react,nextjs,nodejs,express,mongodb,mysql,git,github,tailwind"/>
 </p>
 
+## 📊 GitHub Dashboard
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Atharva6153-git&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Atharva6153-git&theme=tokyonight"/>
+
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Atharva6153-git&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Atharva6153-git&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
 ## 🔥 Contribution Streak
 
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=Atharva6153-git&theme=tokyonight&hide_border=true"
-  alt="GitHub Contribution Streak"
-  width="70%"
+src="https://raw.githubusercontent.com/Atharva6153-git/Atharva6153-git/output/github-streak.svg"
+alt="GitHub Contribution Streak"
+width="90%"
 />
 
 </div>
 
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Atharva6153-git&theme=tokyo-night&hide_border=true"
+alt="GitHub Activity Graph"
+width="100%"
+/>
+
+</div>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Atharva6153-git/Atharva6153-git/gh-pages/github-contribution-grid-snake-dark.svg?raw=true"/>
+<img
+src="https://raw.githubusercontent.com/Atharva6153-git/Atharva6153-git/output/github-contribution-grid-snake-dark.svg"
+alt="GitHub Contribution Snake"
+width="100%"
+/>
+
+</div>
+
+## 📅 Contribution Calendar
+
+<div align="center">
+
+<img
+src="https://ghchart.rshah.org/0891b2/Atharva6153-git"
+alt="GitHub Contribution Calendar"
+width="100%"
+/>
 
 </div>
 
@@ -71,9 +114,11 @@ I'm **Atharva Jadhav**, a Computer Engineering student passionate about building
 
 Interested in collaborating on innovative projects, open source, or AI? Reach out.
 
-🌐 Portfolio → https://portfolio-apexgg.vercel.app  
-💼 LinkedIn → https://linkedin.com/in/atharva-jadhav-8a0830334  
-📧 Email → atharvaj7822@gmail.com  
+🌐 Portfolio → https://portfolio-apexgg.vercel.app
+
+💼 LinkedIn → https://linkedin.com/in/atharva-jadhav-8a0830334
+
+📧 Email → atharvaj7822@gmail.com
 
 <div align="center">
 
