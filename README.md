@@ -38,13 +38,15 @@ I'm **Atharva Jadhav**, a Computer Engineering student passionate about building
 <img src="https://skillicons.dev/icons?i=java,python,js,react,nextjs,nodejs,express,mongodb,mysql,git,github,tailwind"/>
 </p>
 
-## 📊 GitHub Analytics
+## 🔥 Contribution Streak
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Atharva6153-git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva6153-git&layout=compact&theme=tokyonight&hide_border=true"/>
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=Atharva6153-git&theme=tokyonight&hide_border=true"
+alt="GitHub Contribution Streak"
+width="70%"
+/>
 
 </div>
 
