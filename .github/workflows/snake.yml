@@ -1,30 +1,260 @@
-name: Generate Contribution Snake
+name: GitHub Profile Dashboard
 
 on:
   schedule:
     - cron: "0 */12 * * *"
+
   workflow_dispatch:
+
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate contribution snake
-        uses: Platane/snk@v3
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Contribution Snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Atharva6153-git
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push contribution snake
+      - name: Generate Contribution Streak
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 <<'PY'
+          import requests
+          from datetime import date, timedelta
+          from pathlib import Path
+
+          username = "Atharva6153-git"
+
+          today = date.today()
+          start = today - timedelta(days=365)
+
+          query = """
+          query($login:String!, $from:DateTime!, $to:DateTime!) {
+            user(login:$login) {
+              contributionsCollection(from:$from, to:$to) {
+                contributionCalendar {
+                  totalContributions
+                  weeks {
+                    contributionDays {
+                      date
+                      contributionCount
+                    }
+                  }
+                }
+              }
+            }
+          }
+          """
+
+          variables = {
+              "login": username,
+              "from": start.isoformat() + "T00:00:00Z",
+              "to": today.isoformat() + "T23:59:59Z"
+          }
+
+          response = requests.post(
+              "https://api.github.com/graphql",
+              json={
+                  "query": query,
+                  "variables": variables
+              },
+              headers={
+                  "Authorization": f"Bearer {__import__('os').environ['GITHUB_TOKEN']}",
+                  "Content-Type": "application/json"
+              },
+              timeout=30
+          )
+
+          response.raise_for_status()
+
+          data = response.json()
+
+          if "errors" in data:
+              raise RuntimeError(data["errors"])
+
+          weeks = data["data"]["user"]["contributionsCollection"]["contributionCalendar"]["weeks"]
+
+          days = []
+
+          for week in weeks:
+              for contribution_day in week["contributionDays"]:
+                  days.append({
+                      "date": contribution_day["date"],
+                      "count": contribution_day["contributionCount"]
+                  })
+
+          days.sort(key=lambda x: x["date"])
+
+          total = sum(day["count"] for day in days)
+
+          current_streak = 0
+
+          for day in reversed(days):
+              if day["count"] > 0:
+                  current_streak += 1
+              else:
+                  break
+
+          longest_streak = 0
+          running = 0
+
+          for day in days:
+              if day["count"] > 0:
+                  running += 1
+                  longest_streak = max(longest_streak, running)
+              else:
+                  running = 0
+
+          last_30 = days[-30:]
+
+          bars = ""
+
+          for index, day in enumerate(last_30):
+              height = min(100, 15 + day["count"] * 8)
+              x = index * 22
+
+              bars += f'''
+              <rect
+                x="{x}"
+                y="{125 - height}"
+                width="14"
+                height="{height}"
+                rx="4"
+                opacity="{0.25 + min(day["count"], 10) * 0.07}"
+              />
+              '''
+
+          svg = f'''<svg
+            width="880"
+            height="220"
+            viewBox="0 0 880 220"
+            xmlns="http://www.w3.org/2000/svg">
+
+            <rect
+              width="880"
+              height="220"
+              rx="16"
+              fill="#0d1117"
+              stroke="#30363d"/>
+
+            <text
+              x="35"
+              y="45"
+              fill="#f0f6fc"
+              font-family="Arial, sans-serif"
+              font-size="24"
+              font-weight="700">
+              Contribution Streak
+            </text>
+
+            <text
+              x="35"
+              y="82"
+              fill="#8b949e"
+              font-family="Arial, sans-serif"
+              font-size="14">
+              GitHub activity — last 365 days
+            </text>
+
+            <text
+              x="35"
+              y="125"
+              fill="#58a6ff"
+              font-family="Arial, sans-serif"
+              font-size="32"
+              font-weight="700">
+              {current_streak}
+            </text>
+
+            <text
+              x="35"
+              y="150"
+              fill="#8b949e"
+              font-family="Arial, sans-serif"
+              font-size="13">
+              Current Streak
+            </text>
+
+            <text
+              x="190"
+              y="125"
+              fill="#58a6ff"
+              font-family="Arial, sans-serif"
+              font-size="32"
+              font-weight="700">
+              {longest_streak}
+            </text>
+
+            <text
+              x="190"
+              y="150"
+              fill="#8b949e"
+              font-family="Arial, sans-serif"
+              font-size="13">
+              Longest Streak
+            </text>
+
+            <text
+              x="345"
+              y="125"
+              fill="#58a6ff"
+              font-family="Arial, sans-serif"
+              font-size="32"
+              font-weight="700">
+              {total}
+            </text>
+
+            <text
+              x="345"
+              y="150"
+              fill="#8b949e"
+              font-family="Arial, sans-serif"
+              font-size="13">
+              Contributions
+            </text>
+
+            <g transform="translate(500,40)">
+              {bars}
+            </g>
+
+            <text
+              x="500"
+              y="185"
+              fill="#8b949e"
+              font-family="Arial, sans-serif"
+              font-size="12">
+              Last 30 days
+            </text>
+
+          </svg>'''
+
+          Path("dist/github-streak.svg").write_text(svg, encoding="utf-8")
+
+          print(f"Current streak: {current_streak}")
+          print(f"Longest streak: {longest_streak}")
+          print(f"Total contributions: {total}")
+          PY
+
+      - name: Publish Dashboard Files
         uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: output
           build_dir: dist
+          target_branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
