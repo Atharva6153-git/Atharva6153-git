@@ -30,7 +30,7 @@ I'm **Atharva Jadhav**, a Computer Engineering student passionate about building
 - 🤖 Exploring Artificial Intelligence
 - ⚙️ Backend & System Design Enthusiast
 - 🌱 Currently mastering MERN & ML
-- 💡 Building projects that solve real-world problems
+- 💡 Always building projects that solve real-world problems.
 
 ## ⚡ Tech Stack
 
@@ -38,67 +38,13 @@ I'm **Atharva Jadhav**, a Computer Engineering student passionate about building
 <img src="https://skillicons.dev/icons?i=java,python,js,react,nextjs,nodejs,express,mongodb,mysql,git,github,tailwind"/>
 </p>
 
-## 📊 GitHub Dashboard
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Atharva6153-git&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Atharva6153-git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Atharva6153-git&theme=tokyonight"/>
-
-<br/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Atharva6153-git&theme=tokyonight"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Atharva6153-git&theme=tokyonight&utcOffset=5.5"/>
-
-</div>
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img
-src="https://raw.githubusercontent.com/Atharva6153-git/Atharva6153-git/output/github-streak.svg"
-alt="GitHub Contribution Streak"
-width="90%"
-/>
-
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Atharva6153-git&theme=tokyo-night&hide_border=true"
-alt="GitHub Activity Graph"
-width="100%"
-/>
-
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img
-src="https://raw.githubusercontent.com/Atharva6153-git/Atharva6153-git/output/github-contribution-grid-snake-dark.svg"
-alt="GitHub Contribution Snake"
-width="100%"
-/>
-
-</div>
-
-## 📅 Contribution Calendar
-
-<div align="center">
-
-<img
-src="https://ghchart.rshah.org/0891b2/Atharva6153-git"
-alt="GitHub Contribution Calendar"
-width="100%"
-/>
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva6153-git&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -112,12 +58,10 @@ width="100%"
 
 ## 🤝 Let's Connect
 
-Interested in collaborating on innovative projects, open source, or AI? Reach out.
+If you're interested in collaborating on innovative projects, open source, or AI, feel free to reach out.
 
-🌐 Portfolio → https://portfolio-apexgg.vercel.app
-
-💼 LinkedIn → https://linkedin.com/in/atharva-jadhav-8a0830334
-
+🌐 Portfolio → https://portfolio-apexgg.vercel.app  
+💼 LinkedIn → https://linkedin.com/in/atharva-jadhav-8a0830334  
 📧 Email → atharvaj7822@gmail.com
 
 <div align="center">
