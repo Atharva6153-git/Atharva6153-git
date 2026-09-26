@@ -1,0 +1,373 @@
+<svg
+  width="880"
+  height="220"
+  viewBox="0 0 880 220"
+  xmlns="http://www.w3.org/2000/svg">
+
+  <rect
+    width="880"
+    height="220"
+    rx="16"
+    fill="#0d1117"
+    stroke="#30363d"/>
+
+  <text
+    x="35"
+    y="45"
+    fill="#f0f6fc"
+    font-family="Arial, sans-serif"
+    font-size="24"
+    font-weight="700">
+    Contribution Streak
+  </text>
+
+  <text
+    x="35"
+    y="82"
+    fill="#8b949e"
+    font-family="Arial, sans-serif"
+    font-size="14">
+    GitHub activity — last 365 days
+  </text>
+
+  <text
+    x="35"
+    y="125"
+    fill="#58a6ff"
+    font-family="Arial, sans-serif"
+    font-size="32"
+    font-weight="700">
+    0
+  </text>
+
+  <text
+    x="35"
+    y="150"
+    fill="#8b949e"
+    font-family="Arial, sans-serif"
+    font-size="13">
+    Current Streak
+  </text>
+
+  <text
+    x="190"
+    y="125"
+    fill="#58a6ff"
+    font-family="Arial, sans-serif"
+    font-size="32"
+    font-weight="700">
+    5
+  </text>
+
+  <text
+    x="190"
+    y="150"
+    fill="#8b949e"
+    font-family="Arial, sans-serif"
+    font-size="13">
+    Longest Streak
+  </text>
+
+  <text
+    x="345"
+    y="125"
+    fill="#58a6ff"
+    font-family="Arial, sans-serif"
+    font-size="32"
+    font-weight="700">
+    531
+  </text>
+
+  <text
+    x="345"
+    y="150"
+    fill="#8b949e"
+    font-family="Arial, sans-serif"
+    font-size="13">
+    Contributions
+  </text>
+
+  <g transform="translate(500,40)">
+    
+    <rect
+      x="0"
+      y="78"
+      width="14"
+      height="47"
+      rx="4"
+      opacity="0.53"
+    />
+    
+    <rect
+      x="22"
+      y="25"
+      width="14"
+      height="100"
+      rx="4"
+      opacity="0.9500000000000001"
+    />
+    
+    <rect
+      x="44"
+      y="70"
+      width="14"
+      height="55"
+      rx="4"
+      opacity="0.6000000000000001"
+    />
+    
+    <rect
+      x="66"
+      y="110"
+      width="14"
+      height="15"
+      rx="4"
+      opacity="0.25"
+    />
+    
+    <rect
+      x="88"
+      y="30"
+      width="14"
+      height="95"
+      rx="4"
+      opacity="0.9500000000000001"
+    />
+    
+    <rect
+      x="110"
+      y="25"
+      width="14"
+      height="100"
+      rx="4"
+      opacity="0.9500000000000001"
+    />
+    
+    <rect
+      x="132"
+      y="62"
+      width="14"
+      height="63"
+      rx="4"
+      opacity="0.67"
+    />
+    
+    <rect
+      x="154"
+      y="38"
+      width="14"
+      height="87"
+      rx="4"
+      opacity="0.8800000000000001"
+    />
+    
+    <rect
+      x="176"
+      y="110"
+      width="14"
+      height="15"
+      rx="4"
+      opacity="0.25"
+    />
+    
+    <rect
+      x="198"
+      y="62"
+      width="14"
+      height="63"
+      rx="4"
+      opacity="0.67"
+    />
+    
+    <rect
+      x="220"
+      y="102"
+      width="14"
+      height="23"
+      rx="4"
+      opacity="0.32"
+    />
+    
+    <rect
+      x="242"
+      y="25"
+      width="14"
+      height="100"
+      rx="4"
+      opacity="0.9500000000000001"
+    />
+    
+    <rect
+      x="264"
+      y="102"
+      width="14"
+      height="23"
+      rx="4"
+      opacity="0.32"
+    />
+    
+    <rect
+      x="286"
+      y="25"
+      width="14"
+      height="100"
+      rx="4"
+      opacity="0.9500000000000001"
+    />
+    
+    <rect
+      x="308"
+      y="110"
+      width="14"
+      height="15"
+      rx="4"
+      opacity="0.25"
+    />
+    
+    <rect
+      x="330"
+      y="25"
+      width="14"
+      height="100"
+      rx="4"
+      opacity="0.9500000000000001"
+    />
+    
+    <rect
+      x="352"
+      y="25"
+      width="14"
+      height="100"
+      rx="4"
+      opacity="0.9500000000000001"
+    />
+    
+    <rect
+      x="374"
+      y="25"
+      width="14"
+      height="100"
+      rx="4"
+      opacity="0.9500000000000001"
+    />
+    
+    <rect
+      x="396"
+      y="25"
+      width="14"
+      height="100"
+      rx="4"
+      opacity="0.9500000000000001"
+    />
+    
+    <rect
+      x="418"
+      y="25"
+      width="14"
+      height="100"
+      rx="4"
+      opacity="0.9500000000000001"
+    />
+    
+    <rect
+      x="440"
+      y="110"
+      width="14"
+      height="15"
+      rx="4"
+      opacity="0.25"
+    />
+    
+    <rect
+      x="462"
+      y="25"
+      width="14"
+      height="100"
+      rx="4"
+      opacity="0.9500000000000001"
+    />
+    
+    <rect
+      x="484"
+      y="110"
+      width="14"
+      height="15"
+      rx="4"
+      opacity="0.25"
+    />
+    
+    <rect
+      x="506"
+      y="110"
+      width="14"
+      height="15"
+      rx="4"
+      opacity="0.25"
+    />
+    
+    <rect
+      x="528"
+      y="110"
+      width="14"
+      height="15"
+      rx="4"
+      opacity="0.25"
+    />
+    
+    <rect
+      x="550"
+      y="110"
+      width="14"
+      height="15"
+      rx="4"
+      opacity="0.25"
+    />
+    
+    <rect
+      x="572"
+      y="110"
+      width="14"
+      height="15"
+      rx="4"
+      opacity="0.25"
+    />
+    
+    <rect
+      x="594"
+      y="110"
+      width="14"
+      height="15"
+      rx="4"
+      opacity="0.25"
+    />
+    
+    <rect
+      x="616"
+      y="110"
+      width="14"
+      height="15"
+      rx="4"
+      opacity="0.25"
+    />
+    
+    <rect
+      x="638"
+      y="110"
+      width="14"
+      height="15"
+      rx="4"
+      opacity="0.25"
+    />
+    
+  </g>
+
+  <text
+    x="500"
+    y="185"
+    fill="#8b949e"
+    font-family="Arial, sans-serif"
+    font-size="12">
+    Last 30 days
+  </text>
+
+</svg>
