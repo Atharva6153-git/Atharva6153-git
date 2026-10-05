@@ -35,7 +35,7 @@ I'm **Atharva Jadhav**, a Computer Engineering student passionate about building
 ## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,js,react,nextjs,nodejs,express,mongodb,mysql,git,github,tailwind"/>
+<img src="https://skillicons.dev/icons?i=java,mongodb,mysql,git,github,firebase"/>
 </p>
 
 ## 🔥 Contribution Streak
